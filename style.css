@@ -45,7 +45,7 @@ header{
 
 .nav-link{
     font-size: 1.6rem;
-    color: #000;
+    color: #fff;
     padding: 0 1rem;
     transition: opacity 0.5s;
 }
